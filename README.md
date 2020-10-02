@@ -1,2 +1,5 @@
 # spotifye
-The coolest project ever
+The coolest project ever!
+
+## Contributors
+Xinyi Tang && Hunter Goodreau
